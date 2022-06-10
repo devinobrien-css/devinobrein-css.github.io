@@ -1,13 +1,13 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: MIPS/BASIC interpreter
+  description: A java program emulating the behavior of an assembly interpreter
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: MongoDB (lite) Implementation
+  description: A java program simulating non-relational data storage and aggregation
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: Social Media Graph Network
+  description: An implementation of a graph structure built to function as a social network
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Object Recognition in Video
+  description: A python project for detecting the movement of objects in a series of video frames

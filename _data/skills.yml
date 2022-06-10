@@ -1,36 +1,36 @@
-header: Say something about what you're good at
+header: A curious developer is always hungry to learn
 
-subheader: Give some more context
+subheader: Experience including front-end, back-end, and database development
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Front-End
+    description: Profficient in the latest JavaScript frameworks and tools
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Back-End
+    description: Concrete Systems knowledge and experience
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Databases
+    description: Mastery in SQL and NoSQL data storage implementations
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
+  - name: Front-End
     topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+      - React
+      - Angular
+      - Vue
+      - Ruby
 
-  - name: Certification 2
+  - name: Back-End
     topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
+      - Node
+      - Express
+      - Python
+      - Java
 
-  - name: Certification 3
+  - name: Databases
     topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+      - SQLServer
+      - MongoDB
+      - Neo4J
+      - SQLite
